@@ -1,0 +1,31 @@
+/*-----------------------------------------------------------------*/
+/* BASIC SETUP */
+/*-----------------------------------------------------------------*/
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body{
+    background-color: #FFF;
+    color: #555;
+    font-family: 'lato', 'arial', sans-serif;
+    font-size: 20ppx;
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+    overflow-x: hidden;
+}
+
+/*-----------------------------------------------------------------*/
+/* REUSABLE COMPONENTS */
+/*-----------------------------------------------------------------*/
+
+.row {
+    
+    max-width: 1140px;
+    margin: 0 auto;
+}
