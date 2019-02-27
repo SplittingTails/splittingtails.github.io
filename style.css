@@ -65,7 +65,7 @@ p {
     width: auto;
     border-radius: 10%;
     border: solid;
-    margin: 10px; 
+    margin: 0px 10px; 
         
 }
 
@@ -77,3 +77,30 @@ p {
     
     max-width: 1000px;
 }
+
+/*-----------------------------------------------------------------*/
+/* Ideal */
+/*-----------------------------------------------------------------*/
+
+.seek-photo {
+    float: right;
+    height: 400px;
+    width: auto;
+    margin: 0px 10px;  
+        
+}
+
+
+.seek-link {
+    float: right;
+    clear: right;
+    display: block;
+    margin-right: 60px;
+}
+
+
+
+
+
+
+
