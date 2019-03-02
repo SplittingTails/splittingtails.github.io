@@ -75,6 +75,16 @@ p {
     
 }
 
+a {
+    
+    clear: right;
+    display: block;
+   padding-top: 10px;
+    margin: auto;
+    
+    
+}
+
 
 /*-----------------------------------------------------------------*/
 /* HEADING */
@@ -123,10 +133,10 @@ p {
 
 
 .seek-link {
+    margin: 0 60px;
     float: right;
     clear: right;
     display: block;
-    margin-right: 60px;
 }
 
 /*-----------------------------------------------------------------*/
@@ -155,7 +165,19 @@ footer p {
 .section-Personal img {
     
     height: 350px;
-    width: auto;
-    
+    width: 300px;
+    display:block;
+    margin: auto; 
 }
+
+.section-Personal a {
+    
+    text-align: center;
+}
+
+.section-Personal h2 {
+    
+    margin-top: 0;
+}
+
 
