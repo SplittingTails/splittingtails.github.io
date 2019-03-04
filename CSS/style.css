@@ -180,4 +180,18 @@ footer p {
     margin-top: 0;
 }
 
+/*-----------------------------------------------------------------*/
+/* Project */
+/*-----------------------------------------------------------------*/
+
+ul { list-style-type: none; }
+
+ul li { 
+    float:left; width: 200px;
+    border-right: 1px solid;
+    padding-left: 5%
+} 
+
+
+ul li:last { border-right: none }
 
